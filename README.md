@@ -7,6 +7,11 @@ window or whatever information you send it from your xmonad.hs.
 xmonad-log-applet was originally written by Adam Wick, you can get more details
 on the [old website][0].
 
+## ChangeLog 
+
+has been modified to work with libmatepanelapplet-4.0 
+
+
 ## Installation
 
 There are two pieces of setup you'll need to get this working, assuming you are
@@ -40,7 +45,8 @@ If you are compiling from a git clone, you should run `./autogen.sh` instead of
 ## Contact
 
 If you have any questions, comments or bug reports, please contact me via GitHub
-or drop me a line at <alexander@kojevnikov.com>.
+or drop me a line at  <rohith.reddi9@gmail.com>
+
 
 [0]: http://uhsure.com/xmonad-log-applet.html
 [1]: http://www.haskell.org/haskellwiki/Xmonad/Using_xmonad_in_Gnome
